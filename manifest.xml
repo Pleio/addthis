@@ -5,8 +5,10 @@
 	<version>1.0</version>
 	<description>Provide social bookmark functionality.</description>
 	<website>http://www.coldtrick.com/</website>
+	<repository>https://github.com/ColdTrick/addthis</repository>
+	<bugtracker>https://github.com/ColdTrick/addthis/issues</bugtracker>
 	<copyright>(C) ColdTrick IT Solutions 2009 - 2012</copyright>
-	<license>GNU Public License version 2</license>
+	<license>GNU General Public License version 2</license>
  	
  	<requires>
 		<type>elgg_release</type>
